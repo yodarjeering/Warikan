@@ -17,4 +17,10 @@ function showName(){
     console.log(usrList);
 }
 
+
+function calcValue(){
+    return ;
+}
+
+
 nameSubmit.addEventListener('click',showName);
